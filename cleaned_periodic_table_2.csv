@@ -1,0 +1,121 @@
+atomic_number,name,symbol,appearance,period,element_category,atomic_weight,electron_configuration,phase,melting_point(K),boiling_point(K),density_at_stp(g/L),heat_of_fusion(kJ/mol),heat_of_vaporization(kJ/mol),molar_heat_capacity(J/(mol¡¤K))
+1,Hydrogen,H,colorless gas,1,diatomic nonmetal,1.008,1s1,gas,13.99,20.271,0.08988,0.117,0.904,28.836
+2,Helium,He,"colorless gas, exhibiting a red-orange glow when placed in a high-voltage electric field",1,noble gas,4.002602,1s2,gas,0.95,4.222,0.1786,0.0138,0.0829,20.78
+3,Lithium,Li,silvery-white,2,alkali metal,6.94,[He] 2s1,solid,453.65,1603,,3,136,24.86
+4,Beryllium,Be,white-gray metallic,2,alkaline earth metal,9.0121831,[He] 2s2,solid,1560,2742,,12.2,292,16.443
+5,Boron,B,black-brown,2,metalloid,10.81,[He] 2s2 2p1,solid,2349,4200,,50.2,508,11.087
+6,Carbon(graphite),C,black,2,"polyatomic nonmetal, sometimes considered a metalloid",12.011,[He] 2s2 2p2,solid,,,,117,,8.517
+6,Carbon(diamond),C,clear,2,"polyatomic nonmetal, sometimes considered a metalloid",12.011,[He] 2s2 2p2,solid,,,,,,6.155
+7,Nitrogen,N,"colorless gas, liquid or solid",2,diatomic nonmetal,14.007,[He] 2s2 2p3,gas,63.15,77.355,1.251,0.72,,29.124
+8,Oxygen,O,"gas: colorless, liquid: pale blue",2,diatomic nonmetal,15.999,[He] 2s2 2p4,gas,54.36,90.188,1.429,0.444,6.82,29.378
+9,Fluorine,F,"gas: very pale yellow
+liquid: bright yellow
+solid: alpha is opaque, beta is transparent",2,diatomic nonmetal,18.99840316,[He] 2s2 2p5,gas,53.48,85.03,1.696,,6.51,
+10,Neon,Ne,colorless gas exhibiting an orange-red glow when placed in a high voltage electric field,2,noble gas,20.1797,[He] 2s2 2p6,gas,24.56,27.104,0.9002,0.335,1.71,20.79
+11,Sodium,Na,silvery white metallic,3,alkali metal,22.98976928,[Ne] 3s1,solid,370.944,1156.09,,2.6,97.42,28.23
+12,Magnesium,Mg,shiny grey solid,3,alkaline earth metal,24.305,[Ne] 3s2,solid,923,1363,,8.48,128,24.869
+13,Aluminum,Al,silvery gray metallic,3,"post-transition metal, sometimes considered a metalloid",26.9815385,[Ne] 3s2 3p1,solid,933.47,2743,,10.71,284,24.2
+14,Silicon,Si,"crystalline, reflective with bluish-tinged faces",3,metalloid,28.085,[Ne] 3s2 3p2,solid,1687,3538,,50.21,383,19.789
+15,Phosphorus,P,"colourless, waxy white, yellow, scarlet, red, violet, black",3,polyatomic nonmetal,30.973762,[Ne] 3s2 3p3,solid,,,,0.66,,23.824
+16,Sulfur,S,lemon yellow sintered microcrystals,3,polyatomic nonmetal,32.06,[Ne] 3s2 3p4,solid,388.36,717.8,,1.727,45,22.75
+17,Chlorine,Cl,pale yellow-green gas,3,diatomic nonmetal,35.45,[Ne] 3s2 3p5,gas,171.6,239.11,3.2,6.406,,33.949
+18,Argon,Ar,colorless gas exhibiting a lilac/violet glow when placed in a high voltage electric field,3,noble gas,39.948,[Ne] 3s2 3p6,gas,83.81,87.302,1.784,1.18,6.53,20.85
+19,Potassium,K,silvery gray,4,alkali metal,39.0983,[Ar] 4s1,solid,336.7,1032,,2.33,76.9,29.6
+20,Calcium,Ca,"dull gray, silver; with a pale yellow tint",4,alkaline earth metal,40.078,[Ar] 4s2,solid,1115,1757,,8.54,154.7,25.929
+21,Scandium,Sc,silvery white,4,transition metal,44.955908,[Ar] 3d1 4s2,solid,1814,3109,,14.1,332.7,25.52
+22,Titanium,Ti,silvery grey-white metallic,4,transition metal,47.867,[Ar] 3d2 4s2,solid,1941,3560,,14.15,425,25.06
+23,Vanadium,V,blue-silver-grey metal,4,transition metal,50.9415,[Ar] 3d3 4s2,solid,2183,3680,,21.5,444,24.89
+24,Chromium,Cr,silvery metallic,4,transition metal,51.9961,[Ar] 3d5 4s1,solid,2180,2944,,21,347,23.35
+25,Manganese,Mn,silvery metallic,4,transition metal,54.938044,[Ar] 3d5 4s2,solid,1519,2334,,12.91,221,26.32
+26,Iron,Fe,lustrous metallic with a grayish tinge,4,transition metal,55.845,[Ar] 3d6 4s2,solid,1811,3134,,13.81,340,25.1
+27,Cobalt,Co,hard lustrous bluish gray metal,4,transition metal,58.933194,[Ar] 3d7 4s2,solid,1768,3200,,16.06,377,24.81
+28,Nickel,Ni,"lustrous, metallic, and silver with a gold tinge",4,transition metal,58.6934,"[Ar] 3d8 4s2 or, [Ar] 3d9 4s1",solid,1728,3003,,17.48,379,26.07
+29,Copper,Cu,red-orange metallic luster,4,transition metal,63.546,[Ar] 3d10 4s1,solid,1357.77,2835,,13.26,300.4,24.44
+30,Zinc,Zn,silver-gray,4,"transition metal, alternatively considered a post-transition metal",65.38,[Ar] 3d10 4s2,solid,692.68,1180,,7.32,115,25.47
+31,Gallium,Ga,silvery blue,4,post-transition metal,69.723,[Ar] 3d10 4s2 4p1,solid,302.9146,2673,,5.59,256,25.86
+32,Germanium,Ge,grayish-white,4,metalloid,72.63,[Ar] 3d10 4s2 4p2,solid,1211.4,3106,,36.94,334,23.222
+33,Arsenic,As,metallic grey,4,metalloid,74.921595,[Ar] 3d10 4s2 4p3,solid,,,,24.44,34.76,24.64
+34,Selenium,Se,"black, red, and gray (not pictured) allotropes",4,"polyatomic nonmetal, sometimes considered a metalloid",78.971,[Ar] 3d10 4s2 4p4,solid,494,958,,6.69,95.48,25.363
+35,Bromine,Br,reddish-brown,4,diatomic nonmetal,79.904,[Ar] 3d10 4s2 4p5,liquid,265.8,332,,10.571,,75.69
+36,Krypton,Kr,"colorless gas, exhibiting a whitish glow in a high electric field",4,noble gas,83.798,[Ar] 3d10 4s2 4p6,gas,115.78,119.93,3.749,1.64,9.08,20.95
+37,Rubidium,Rb,grey white,5,alkali metal,85.4678,[Kr] 5s1,solid,312.45,961,,2.19,69,31.06
+38,Strontium,Sr,silvery white metallic; with a pale yellow tint,5,alkaline earth metal,87.62,[Kr] 5s2,solid,1050,1650,,7.43,141,26.4
+39,Yttrium,Y,silvery white,5,transition metal,88.90584,[Kr] 4d1 5s2,solid,1799,3203,,11.42,363,26.53
+40,Zirconium,Zr,silvery white,5,transition metal,91.224,[Kr] 4d2 5s2,solid,2128,4650,,14,591,25.36
+41,Niobium,Nb,"gray metallic, bluish when oxidized",5,transition metal,92.90637,[Kr] 4d4 5s1,solid,2750,5017,,30,689.9,24.6
+42,Molybdenum,Mo,gray metallic,5,transition metal,95.95,[Kr] 4d5 5s1,solid,2896,4912,,37.48,598,24.06
+43,Technetium,Tc,shiny gray metal,5,transition metal,98,[Kr] 4d5 5s2,solid,2430,4538,,33.29,585.2,24.27
+44,Ruthenium,Ru,silvery white metallic,5,transition metal,101.07,[Kr] 4d7 5s1,,2607,4423,,38.59,619,24.06
+45,Rhodium,Rh,silvery white metallic,5,transition metal,102.9055,[Kr] 4d8 5s1,solid,2237,3968,,26.59,493,24.98
+46,Palladium,Pd,silvery white,5,transition metal,106.42,[Kr] 4d10,solid,1828.05,3236,,16.74,358,25.98
+47,Silver,Ag,lustrous white metal,5,transition metal,107.8682,[Kr] 4d10 5s1,solid,1234.93,2435,,11.28,254,25.35
+48,Cadmium,Cd,silvery bluish-gray metallic,5,"transition metal, alternatively considered a post-transition metal",112.414,[Kr] 4d10 5s2,solid,594.22,1040,,6.21,99.87,26.02
+49,Indium,In,silvery lustrous gray,5,post-transition metal,114.818,[Kr] 4d10 5s2 5p1,solid,429.7485,2345,,3.281,231.8,26.74
+50,Tin,Sn,"silvery-white (beta, ¥â) or gray (alpha, ¥á)",5,post-transition metal,118.71,[Kr] 4d10 5s2 5p2,solid,505.08,2875,,7.03,296.1,27.112
+51,Antimony,Sb,silvery lustrous gray,5,metalloid,121.76,[Kr] 4d10 5s2 5p3,solid,903.78,1908,,19.79,193.43,25.23
+52,Tellurium,Te,"silvery lustrous gray (crystalline),, brown-black powder (amorphous)",5,metalloid,127.6,[Kr] 4d10 5s2 5p4,solid,722.66,1261,,17.49,114.1,25.73
+53,Iodine,I,"lustrous metallic gray, violet as a gas",5,diatomic nonmetal,126.90447,[Kr] 4d10 5s2 5p5,solid,386.85,457.4,,15.52,,54.44
+54,Xenon,Xe,"colorless gas, exhibiting a blue glow when placed in a high voltage electric field",5,noble gas,131.293,[Kr] 4d10 5s2 5p6,gas,161.4,165.051,5.894,2.27,12.64,21.01
+55,Cesium,Cs,pale gold,6,alkali metal,132.905452,[Xe] 6s1,solid,301.7,944,,2.09,63.9,32.21
+56,Barium,Ba,silvery gray; with a pale yellow tint,6,alkaline earth metals,137.327,[Xe] 6s2,solid,1000,2118,,7.12,142,28.07
+57,Lanthanum,La,silvery white,6,"lanthanide, sometimes considered a transition metal",138.90547,[Xe] 5d1 6s2,solid,1193,3737,,6.2,400,27.11
+58,Cerium,Ce,silvery white,6,lanthanide,140.116,[Xe] 4f1 5d1 6s2,solid,1068,3716,,5.46,,26.94
+59,Praseodymium,Pr,grayish white,6,lanthanide,140.90766,[Xe] 4f3 6s2,solid,1208,3403,,6.89,331,27.2
+60,Neodymium,Nd,silvery white,6,lanthanide,144.242,[Xe] 4f4 6s2,solid,1297,3347,,7.14,289,27.45
+61,Promethium,Pm,metallic,6,lanthanide,145,[Xe] 4f5 6s2,solid,1315,3273,,7.13,289,
+62,Samarium,Sm,silvery white,6,lanthanide,150.36,[Xe] 4f6 6s2,solid,1345,2173,,8.62,192,29.54
+63,Europium,Eu,"silvery white, with a pale yellow tint; but rarely seen without oxide discoloration",6,lanthanide,151.964,[Xe] 4f7 6s2,solid,1099,1802,,9.21,176,27.66
+64,Gadolinium,Gd,silvery white,6,lanthanide,157.25,[Xe] 4f7 5d1 6s2,solid,1585,3273,,10.05,301.3,37.03
+65,Terbium,Tb,silvery white,6,lanthanide,158.92535,[Xe] 4f9 6s2,solid,1629,3396,,10.15,391,28.91
+66,Dysprosium,Dy,silvery white,6,lanthanide,162.5,[Xe] 4f10 6s2,solid,1680,2840,,11.06,280,27.7
+67,Holmium,Ho,silvery white,6,lanthanide,164.93033,[Xe] 4f11 6s2,solid,1734,2873,,17,251,27.15
+68,Erbium,Er,silvery white,6,lanthanide,167.259,[Xe] 4f12 6s2,solid,1802,3141,,19.9,280,28.12
+69,Thulium,Tm,silvery gray,6,lanthanide,168.93422,[Xe] 4f13 6s2,solid,1818,2223,,16.84,191,27.03
+70,Ytterbium,Yb,silvery white; with a pale yellow tint,6,lanthanide,173.045,[Xe] 4f14 6s2,solid,1097,1469,,7.66,129,26.74
+71,Lutetium,Lu,silvery white,6,"lanthanide, sometimes considered a transition metal",174.9668,[Xe] 6s2 4f14 5d1,solid,1925,3675,,22,414,26.86
+72,Hafnium,Hf,steel gray,6,transition metal,178.49,[Xe] 4f14 5d2 6s2,solid,2506,4876,,27.2,648,25.73
+73,Tantalum,Ta,gray blue,6,transition metal,180.94788,[Xe] 4f14 5d3 6s2,solid,3290,5731,,36.57,753,25.36
+74,Tungsten,W,"grayish white, lustrous",6,transition metal,183.84,[Xe] 4f14 5d4 6s2,solid,3695,6203,,35.3,774,24.27
+75,Rhenium,Re,silvery-grayish,6,transition metal,186.207,[Xe] 4f14 5d5 6s2,solid,3459,5903,,60.43,704,25.48
+76,Osmium,Os,"silvery, blue cast",6,transition metal,190.23,[Xe] 4f14 5d6 6s2,solid,3306,5285,,31,378,24.7
+77,Iridium,Ir,silvery white,6,transition metal,192.217,[Xe] 4f14 5d7 6s2,solid,2719,4403,,41.12,564,25.1
+78,Platinum,Pt,silvery white,6,transition metal,195.084,[Xe] 4f14 5d9 6s1,solid,2041.4,4098,,22.17,510,25.86
+79,Gold,Au,metallic yellow,6,transition metal,196.966569,[Xe] 4f14 5d10 6s1,solid,1337.33,3243,,12.55,342,25.418
+80,Mercury,Hg,silvery,6,"transition metal, alternatively considered a post-transition metal",200.592,[Xe] 4f14 5d10 6s2,liquid,234.321,629.88,,2.29,59.11,27.983
+81,Thallium,Tl,silvery white,6,post-transition metal,204.38,[Xe] 4f14 5d10 6s2 6p1,solid,577,1746,,4.14,165,26.32
+82,Lead,Pb,metallic gray,6,post-transition metal,207.2,[Xe] 4f14 5d10 6s2 6p2,solid,600.61,2022,,4.77,179.5,26.65
+83,Bismuth,Bi,lustrous brownish silver,6,post-transition metal,208.9804,[Xe] 4f14 5d10 6s2 6p3,solid,544.7,1837,,11.3,179,25.52
+84,Polonium,Po,silvery,6,"post-transition metal, but this status is disputed",209,[Xe] 4f14 5d10 6s2 6p4,solid,527,1235,,13,102.91,26.4
+85,Astatine,At,"unknown, probably metallic",6,"metalloid, sometimes classified as a nonmetal, or a metal",210,[Xe] 4f14 5d10 6s2 6p5,solid,575,610,,,54.39,
+86,Radon,Rn,"colorless gas, occasionally glows green or red in discharge tubes",6,noble gas,222,[Xe] 4f14 5d10 6s2 6p6,gas,202,211.5,9.73,3.247,18.1,20.786
+87,Francium,Fr,,7,alkali metal,223,[Rn] 7s1,solid presumably,300,950,,,,
+88,Radium,Ra,silvery white metallic,7,alkaline earth metal,226,[Rn] 7s2,solid,973,2010,,8.5,113,
+89,Actinium,Ac,"silvery-white, glowing with an eerie blue light; sometimes with a golden cast",7,"actinide, sometimes considered a transition metal",227,[Rn] 6d1 7s2,solid,1500,3500,,14,400,27.2
+90,Thorium,Th,"silvery, often with black tarnish",7,actinide,232.0377,[Rn] 6d2 7s2,solid,2023,5061,,13.81,,26.23
+91,Protactinium,Pa,"bright, silvery metallic luster",7,actinide,231.03588,[Rn] 5f2 6d1 7s2,solid,1841,4300,,12.34,481,
+92,Uranium,U,silvery gray metallic; corrodes to a spalling black oxide coat in air,7,actinide,238.02891,[Rn] 5f3 6d1 7s2,solid,1405.3,4404,,9.14,417.1,27.665
+93,Neptunium,Np,silvery metallic,7,actinide,237,[Rn] 5f4 6d1 7s2,solid,912,4447,,5.19,336,29.46
+94,Plutonium,Pu,"silvery white, tarnishing to dark gray in air",7,actinide,244,[Rn] 5f6 7s2,solid,912.5,3505,,2.82,333.5,35.5
+95,Americium,Am,silvery white,7,actinide,243,[Rn] 5f7 7s2,solid,1449,2880,,14.39,,62.7
+96,Curium,Cm,"silvery metallic, glows purple in the dark",7,actinide,247,[Rn] 5f7 6d1 7s2,solid,1613,3383,,13.85,,
+97,Berkelium,Bk,silvery,7,actinide,247,[Rn] 5f9 7s2,solid,1259,2900,,7.92,,
+98,Californium,Cf,silvery,7,actinide,251,[Rn] 5f10 7s2,solid,1173,1743,,,,
+99,Einsteinium,Es,silvery; glows blue in the dark,7,actinide,252,[Rn] 5f11 7s2,solid,1133,1269,,,,
+100,Fermium,Fm,,7,actinide,257,[Rn] 5f12 7s2,solid (predicted),1800,,,,,
+101,Mendelevium,Md,,7,actinide,258,[Rn] 5f13 7s2,solid (predicted),1100,,,,,
+102,Nobelium,No,,7,actinide,259,[Rn] 5f14 7s2,solid (predicted),1100,,,,,
+103,Lawrencium,Lr,silvery (predicted),7,"actinide, sometimes considered a transition metal",266,[Rn] 5f14 7s2 7p1,solid (predicted),1900,,,,,
+105,Dubnium,Db,,7,transition metal,268,[Rn] 5f14 6d3 7s2 ,solid (predicted),,,,,,
+106,Seaborgium,Sg,,7,transition metal,269,[Rn] 5f14 6d4 7s2 ,solid (predicted),,,,,,
+107,Bohrium,Bh,,7,transition metal,270,[Rn] 5f14 6d5 7s2 ,solid (predicted),,,,,,
+108,Hassium,Hs,silvery (predicted),7,transition metal,269,[Rn] 5f14 6d6 7s2 ,solid (predicted),,,,,,
+109,Meitnerium,Mt,,7,"unknown, but probably a transition metal",278,[Rn] 5f14 6d7 7s2 (calculated),solid (predicted),,,,,,
+110,Darmstadtium,Ds,,7,"unknown, but probably a transition metal",281,"[Rn] 5f14 6d8 7s2, (predicted)",solid (predicted),,,,,,
+111,Roentgenium,Rg,silvery (predicted),7,"unknown, but probably a transition metal",282,[Rn] 5f14 6d9 7s2 (predicted),solid (predicted),,,,,,
+112,Ununbium,Uub,,7,"transition metal, alternatively considered a post-transition metal",285,[Rn] 5f14 6d10 7s2 (predicted),gas (predicted),,357,,,,
+113,Ununtrium,Uut,,7,"unknown, but probably a post-transition metal",286,[Rn] 5f14 6d10 7s2 7p1 (predicted),solid (predicted),700,1430,,7.61,130,
+114,Ununquadium,Uuq,,7,post-transition metal,289,[Rn] 5f14 6d10 7s2 7p2 (predicted),solid (predicted),340,420,,,38,
+115,Ununpentium,Uup,,7,"unknown, but probably a post-transition metal",289,[Rn] 5f14 6d10 7s2 7p3 (predicted),solid (predicted),670,1400,,5.94,138,
+116,Ununhexium,Uuh,,7,"unknown, but probably a post-transition metal",293,[Rn] 5f14 6d10 7s2 7p4 (predicted),solid (predicted),708.5,1085,,7.61,42,
+117,Ununseptium,Uus,semimetallic (predicted),7,"unknown, but probably a post-transition metal",294,[Rn] 5f14 6d10 7s2 7p5 (predicted),solid (predicted),723,883,,,,
+118,Ununoctium,Uuo,,7,"unknown, but predicted to be a noble gas",294,[Rn] 5f14 6d10 7s2 7p6 (predicted),solid (predicted),,350,,23.5,19.4,
